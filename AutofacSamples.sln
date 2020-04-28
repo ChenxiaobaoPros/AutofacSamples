@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegistrationSource", "Regis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapters", "Adapters\Adapters.csproj", "{A30149C5-A4DB-4E2D-8777-AF57739C53EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorators", "Decorators\Decorators.csproj", "{2203D033-43B8-4A9E-9577-E3405A16A767}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A30149C5-A4DB-4E2D-8777-AF57739C53EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A30149C5-A4DB-4E2D-8777-AF57739C53EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A30149C5-A4DB-4E2D-8777-AF57739C53EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2203D033-43B8-4A9E-9577-E3405A16A767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2203D033-43B8-4A9E-9577-E3405A16A767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2203D033-43B8-4A9E-9577-E3405A16A767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2203D033-43B8-4A9E-9577-E3405A16A767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
