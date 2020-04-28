@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeMetadata", "Attrib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AggregateServices", "AggregateServices\AggregateServices.csproj", "{A725B5FE-EF80-41A8-AE97-FDCD72C828CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeInterceptors", "TypeInterceptors\TypeInterceptors.csproj", "{E1E38840-6215-4F8B-A2C6-5805AF4BBB3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A725B5FE-EF80-41A8-AE97-FDCD72C828CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A725B5FE-EF80-41A8-AE97-FDCD72C828CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A725B5FE-EF80-41A8-AE97-FDCD72C828CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E38840-6215-4F8B-A2C6-5805AF4BBB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E38840-6215-4F8B-A2C6-5805AF4BBB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E38840-6215-4F8B-A2C6-5805AF4BBB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E38840-6215-4F8B-A2C6-5805AF4BBB3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
